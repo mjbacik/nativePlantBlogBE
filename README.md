@@ -1,9 +1,6 @@
-# partyofone-backend
+### To Run Locally
 
-## Changelog
+-  npm install
+-  npm start
 
-### February 15, 2023
-
--   Add published and unpublished review
--   Model definition
--   Get restaurant by ID
+All API routes are contained in the routes folder and use an api prefix: for example `localhost:3000/api/blog/create`
